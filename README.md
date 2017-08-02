@@ -1,2 +1,4 @@
-# odoo-install-scripts
-ubuntu-14-04
+openerp-install-scripts
+=======================
+
+OpenERP Install Scripts
